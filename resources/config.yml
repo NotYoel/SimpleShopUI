@@ -1,0 +1,18 @@
+shop:
+  "Test": # Category Name
+
+    items:
+      "diamond_sword": # The item identifier (same name you use when using the /give command)
+        item_name: "Custom Diamond Sword" # The item's name
+        item_lore:
+          - "Line 1"
+          - "Line 2"
+        price: 500 # The item price
+      "emerald":
+        item_name: "Emerald"
+        item_lore: []
+        price: 1000
+      "diamond":
+        item_name: "Cool Diamond"
+        item_lore: []
+        price: 10000
